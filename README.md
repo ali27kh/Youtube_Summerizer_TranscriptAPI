@@ -1,4 +1,5 @@
-# YouTube Transcript Summarizer
+# <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="35"/> YouTube Transcript Summarizer
+
 
 This project fetches and summarizes YouTube video transcripts related to Optical Character Recognition (OCR) using `youtube_transcript_api` and `transformers`.
 
